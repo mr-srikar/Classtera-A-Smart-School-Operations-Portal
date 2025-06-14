@@ -82,15 +82,16 @@
         <!-- Back button -->
         <button class="back-button" onclick="window.history.back();">Back</button>
         <div class="transparent-box">
-            <h1>PNM High School</h1>
-            <p>Location: Kukatpally, Hyderabad</p>
-            <p>PNM High School is a beautiful institution with a rich history of 50 years, providing high-quality education while ensuring affordability for all students.</p>
+            <h1>Silverleaf Academy</h1>
+            <p>Location: Nandipur, Telangana</p>
+            <p>Silverleaf Academy is a distinguished institution with a legacy of 45 years, offering exceptional education while staying committed to affordability and inclusivity for all students.</p>
             <ul>
-                <li><strong>Safety and Security:</strong> Our campus is equipped with state-of-the-art security systems, including surveillance cameras and secure entry points, ensuring a safe learning environment for all students.</li>
-                <li><strong>Trust-based Education:</strong> PNM High School operates under a trust model, where the fees are kept minimal to ensure education is accessible to everyone, regardless of their financial background.</li>
-                <li><strong>Beautiful Campus:</strong> The school has a well-maintained campus with green spaces, modern classrooms, and facilities that promote a vibrant and conducive atmosphere for learning.</li>
-                <li><strong>Affordability:</strong> Despite offering a high-quality education, PNM High School is committed to keeping fees low, making it one of the most affordable schools in the region.</li>
+                <li><strong>Safety and Security:</strong> Our campus features advanced security measures, including 24/7 surveillance and secure entry protocols to maintain a safe and peaceful environment.</li>
+                <li><strong>Trust-based Education:</strong> Silverleaf Academy is governed by a charitable trust, ensuring education is accessible through minimal and transparent fee structures.</li>
+                <li><strong>Beautiful Campus:</strong> Nestled in a serene setting, the school offers lush greenery, contemporary classrooms, and student-friendly infrastructure that supports academic and personal growth.</li>
+                <li><strong>Affordability:</strong> With a mission to educate every child, Silverleaf Academy provides top-tier education at one of the lowest fee structures in the region.</li>
             </ul>
+
         </div>
     </div>
 </body>
