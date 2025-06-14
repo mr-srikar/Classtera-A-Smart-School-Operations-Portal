@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>About PNM High School</title>
+    <title>About Silverleaf Academ</title>
     <style>
         body, html {
             height: 100%;
